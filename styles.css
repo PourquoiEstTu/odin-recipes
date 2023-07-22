@@ -1,0 +1,29 @@
+/* index.html styles */
+
+* {
+    background-color: #1d5c11;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    color: white;
+}
+
+h1,
+.index-ul
+ {
+    text-align: center;
+}
+
+.index-title {
+    font-size: 40px;
+}
+
+.index-ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.link {
+    color: yellowgreen;
+}
